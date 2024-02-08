@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @turmagangtech
+- 👀 I’m interested in software development
+- 📫 You can reach out to me via info@turma.software
+- 😄 Pronouns: they/them
